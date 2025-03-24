@@ -64,3 +64,16 @@ This project covers:
 
 ## 📂 Repository Structure
 data-cleaning-eda/ │ ├── datasets/ # Raw datasets (CSV files) │ ├── docs/ # Documentation and architecture details │ ├── data_architecture.drawio # Data architecture diagram │ ├── data_catalog.md # Dataset details and metadata │ ├── cleaning_steps.md # Documentation on cleaning processes │ ├── scripts/ # SQL scripts for data processing │ ├── bronze/ # Scripts for loading raw data │ ├── silver/ # Scripts for cleaning and standardizing data │ ├── gold/ # Scripts for feature engineering and transformations │ ├── eda/ # SQL queries for exploratory data analysis │ ├── tests/ # Quality assurance scripts and validation tests │ ├── README.md # Project overview and instructions ├── LICENSE # License information ├── .gitignore # Files to be ignored by Git └── requirements.txt # Dependencies for the project
+
+markdown
+Copy
+Edit
+
+## 🛡️ License
+This project is licensed under the **MIT License**. Feel free to use, modify, and share with proper attribution.
+
+## 🌟 About Me
+Hi there! I'm **Shoebur Rahman**, a **Data Analyst** passionate about data cleaning, analytics, and storytelling.  
+Let’s connect and explore data together! 🚀
+
+🔗 [LinkedIn](https://www.linkedin.com/in/shoeburrahman/) | 🔗 [GitHub](https://github.com/AnalystShoeb) | 🔗 [Medium](https://medium.com/@analystshoeb)
