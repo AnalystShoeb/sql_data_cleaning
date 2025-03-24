@@ -85,6 +85,7 @@ data-cleaning-eda/
 ├── LICENSE                             # License information
 ├── .gitignore                          # Files to be ignored by Git
 └── requirements.txt                    # Dependencies for the project
+---
 
 ## 🛡️ License
 This project is licensed under the **MIT License**. Feel free to use, modify, and share with proper attribution.
