@@ -1,7 +1,7 @@
-# Data Cleaning and Exploratory Data Analysis (EDA) Project
+# Data Cleaning Project
 
-Welcome to the Data Cleaning and Exploratory Data Analysis (EDA) Project repository! 🚀  
-This project demonstrates essential data preprocessing techniques, including data cleaning, transformation, and exploration, to ensure high-quality data for analysis and decision-making. Designed as a portfolio project, it showcases industry best practices in data cleaning and EDA using SQL.
+Welcome to the Data Cleaning Project repository! 🚀  
+This project demonstrates essential data preprocessing techniques, including data cleaning, transformation, and exploration, to ensure high-quality data for analysis and decision-making.
 
 ## 🏗️ Data Architecture
 The data pipeline for this project follows the **Medallion Architecture** with **Bronze, Silver, and Gold** layers:
@@ -15,8 +15,7 @@ This project covers:
 
 ✅ **Data Acquisition:** Importing data from CSV files into a SQL Server database.  
 ✅ **Data Cleaning:** Handling missing values, duplicates, inconsistent formatting, and outliers.  
-✅ **Data Transformation:** Standardization, normalization, type conversions, and derived features.  
-✅ **Exploratory Data Analysis (EDA):** Summary statistics, data distributions, and key trends using SQL queries.  
+✅ **Data Transformation:** Standardization, normalization, type conversions, and derived features. 
 
 
 ## 🎯 Ideal for Professionals in:
@@ -27,8 +26,6 @@ This project covers:
 ## 🛠️ Tools & Technologies Used:
 🔹 **SQL Server Express:** Lightweight SQL database for processing data.  
 🔹 **SQL Server Management Studio (SSMS):** GUI for managing SQL queries and transformations.  
-🔹 **Draw.io:** Designing data architecture and flow diagrams.  
-🔹 **Notion:** Managing project tasks and documentation.  
 🔹 **Git & GitHub:** Version control and collaboration.
 
 ## 🚀 Project Workflow
@@ -46,12 +43,6 @@ This project covers:
 - Creating standardized and enriched tables.
 - Generating new variables (aggregations, categorical encodings).
 - Normalizing or denormalizing tables based on analysis needs.
-
-### **4️⃣ Exploratory Data Analysis (EDA)**
-- Descriptive statistics (mean, median, mode, distribution).
-- Detecting correlations and relationships between variables.
-- Identifying trends and anomalies in the dataset.
-- Preparing data for reporting and visualization.
 
 ## 📂 Repository Structure
 ```plaintext
