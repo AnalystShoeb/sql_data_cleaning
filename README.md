@@ -59,7 +59,6 @@ data-cleaning-eda/
 │   ├── bronze/                         # Scripts for loading raw data
 │   ├── silver/                         # Scripts for cleaning and standardizing data
 │   ├── gold/                           # Scripts for feature engineering and transformations
-│   ├── eda/                            # SQL queries for exploratory data analysis
 │
 ├── tests/                              # Quality assurance scripts and validation tests
 │
